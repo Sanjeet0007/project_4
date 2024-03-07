@@ -1,0 +1,30 @@
+ .body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        form {
+            margin: 20px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #9e0808;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #b20e0e;
+        }
+        
+    
